@@ -70,7 +70,7 @@ delete(key)
         display()  
      elif choice == 
 5:  
-print("Program terminated.")         
+     print("Program terminated.")         
 break  
 else:  
-print("Invalid choice.") 
+    print("Invalid choice.") 
