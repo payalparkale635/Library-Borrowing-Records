@@ -1,3 +1,5 @@
+# Student Record Management System using Singly Linked List
+# Node class
 class Node:
     def init (self , roll , name , marks):
        self.roll = roll
